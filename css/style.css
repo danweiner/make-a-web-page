@@ -1,0 +1,75 @@
+
+
+body {
+	padding: 20px 10px;
+	font-family: Arial;
+	max-width: 2000px;
+	margin: 0 auto; 
+	font-size: 1.4em;
+}                
+
+h1 {
+	text-align: center;
+	color: navy;
+  font-size: 54px;
+  text-decoration: underline;
+}
+
+p {
+	margin: 10px 0;
+}
+
+ul {
+	list-style-type: lower-roman; 
+}
+
+li {
+	font-size: 16px;
+	line-height: 44px; 
+}
+
+.lesson {
+	background-color: navy;
+	border-radius: 30px;
+	padding: 20px;
+	margin: 10px auto;
+}
+
+h2 {
+	margin: 10px;
+  color: yellow;
+  text-align: Center;
+  font-size: 36px;
+}
+
+.concept {
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: navy;
+}
+
+.concept-title {
+	font-size: 28px;
+	margin: 8px;
+	text-align: left;
+	color: green;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.concept-description {
+	font-weight: lighter;
+	margin: 6px;
+  font-size: 16px;
+}
+.code {
+	font-family: Courier;
+	color : black;
+	font-weight: bold;
+	padding-left:  4px;
+	padding-right: 4px;
+} /*I don't know what this is for but it's in Andy's CSS so I'll leave it/
+
+
